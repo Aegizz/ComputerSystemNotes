@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Main",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Basic Logic Gates",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Basic Arithmetic",
+      "color": {
+        "a": 1,
+        "rgb": 4980991
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.686979166666667,
+  "lineSizeMultiplier": 2.03958333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.322916666666667,
+  "repelStrength": 9.89583333333333,
+  "linkStrength": 1,
+  "linkDistance": 128,
+  "scale": 0.33715681668572234,
+  "close": false
+}
